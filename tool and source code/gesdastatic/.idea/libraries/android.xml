@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="android">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/apktool_2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/soot-infoflow-android-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/soot-infoflow-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/apktool_2.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/sootclasses-trunk-jar-with-dependencies.jar!/" />
+    </SOURCES>
+  </library>
+</component>
